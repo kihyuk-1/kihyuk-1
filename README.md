@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyuk-1&show_icons=true&theme=radical)
 
-## 🔭 프로젝트
+## 🔭 자주 배우고 있는 언어
 
-추가 예정!! 🤔🤔🤔🤔🤔
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihyuk-1&layout=compact)
 
 ## 🌱 현재 배우고 있는 것
 
