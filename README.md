@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 ## 📫 연락 방법
 
-추가 예정!! 🤔🤔🤔🤔🤔
+# 추가 예정!! 🤔🤔🤔🤔🤔
+<img src="https://user-images.githubusercontent.com/58683097/175309185-a7ad9d33-b9aa-4d69-93c0-b18039c602d4.png" width="500" height="400" />
