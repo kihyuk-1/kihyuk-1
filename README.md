@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20ki%20hyuk&fontSize=90)
-
-
-
 <!--
 **kihyuk-1/kihyuk-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
